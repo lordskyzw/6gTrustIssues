@@ -1,0 +1,73 @@
+6G Trust Issues Laboratory Guide
+================================
+
+Welcome to the 6G Trust Issues Laboratory! This repository serves as a laboratory for conducting experiments related to enhancing 6G security with a zero Trust Architecture, with a focus on dynamic trust assessment and anomaly detection.
+
+Mission:
+--------
+The mission of this laboratory is to explore and develop innovative approaches to enhance the security of 6G networks. Specifically, we aim to achieve this by implementing a zero Trust Architecture that incorporates dynamic trust assessment and anomaly detection techniques.
+
+
+
+Types of Zero Trust Architectures for 6G
+1)Micro-Segmentation:
+Divides the network into smaller, isolated segments.
+Restricts lateral movement within the network.
+
+2)Identity and Access Management (IAM):
+Ensures that only authenticated and authorized users/devices can access network resources.
+Uses multifactor authentication (MFA), single sign-on (SSO), etc.
+
+3)Continuous Monitoring and Anomaly Detection:
+Continuously monitors network traffic and user behavior.
+Detects and responds to anomalies in real-time.
+
+4)Least Privilege Access:
+Grants users and devices the minimum level of access necessary.
+Reduces the risk of unauthorized access.
+
+5)Network Access Control (NAC):
+Controls access to the network based on policies.
+Uses endpoint security measures to ensure compliance.
+
+6)Policy-Based Security:
+Defines and enforces security policies dynamically based on context.
+Uses contextual information like user role, device type, location, etc.
+
+
+
+OUR MAIN FOCUS SHALL BE ON Continuous Monitoring and Anomaly Detection since it aligns more with our objectives
+
+Repository Structure:
+---------------------
+This repository follows a modular structure, with each Jupyter notebook representing an experiment. The notebooks are organized into different categories based on the specific aspect of 6G security they address.
+
+Getting Started:
+----------------
+To get started, follow these steps:
+
+1. Clone this repository to your local machine:
+    ```
+    git clone https://github.com/lordskyzw/6gTrustIssues.git
+    ```
+
+2. Install the required dependencies. You can find the list of dependencies and installation instructions in the `requirements.txt` file.
+
+3. Explore the experiments by opening the Jupyter notebooks in your preferred environment.
+
+Experiment Guidelines:
+----------------------
+1. Each Jupyter notebook represents a specific experiment. Read the experiment description and objectives before proceeding.
+
+2. Follow the instructions provided in the notebook to execute the experiment.
+
+3. Analyze the results and observations obtained from each experiment.
+
+4. Feel free to modify and experiment with the code to further explore the concepts and techniques.
+
+
+Conclusion:
+-----------
+By conducting experiments in this laboratory, we aim to advance the field of 6G security and contribute to the development of a zero Trust Architecture with dynamic trust assessment and anomaly detection capabilities.
+
+
