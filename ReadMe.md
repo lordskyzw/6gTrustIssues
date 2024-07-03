@@ -30,6 +30,8 @@ Anomaly Detection plays a crucial role in identifying and mitigating security br
 To get started with our project, make sure you have git installed on your machine.
 if not, please [download here](https://git-scm.com/downloads)
 after installing, clone the repository by running the following command in your terminal:
+
+
 `git clone https://github.com/lordskyzw/6gTrustIssues`
 
 
