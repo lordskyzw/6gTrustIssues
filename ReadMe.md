@@ -1,6 +1,6 @@
 # Enhancing 6G Security with a Zero Trust Architecture: A Focus on Dynamic Trust Assessment and Anomaly Detection
 
-This repository is basically a laboratory focused on enhancing 6G security through the implementation of a Zero Trust Architecture. In this project, the aim is to address the trust issues that arise in the context of 6G networks by leveraging dynamic trust assessment and anomaly detection techniques.
+This repository is basically a laboratory focused on enhancing 6G security through the implementation of a Zero Trust Architecture. In this project, the aim is to address the security issues that arise in the context of 6G networks by leveraging dynamic trust assessment and anomaly detection techniques.
 
 ## Table of Contents
 - [Introduction](#introduction)
